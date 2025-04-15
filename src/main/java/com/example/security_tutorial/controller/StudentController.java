@@ -1,5 +1,6 @@
-package com.example.security_tutorial;
+package com.example.security_tutorial.controller;
 
+import com.example.security_tutorial.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;

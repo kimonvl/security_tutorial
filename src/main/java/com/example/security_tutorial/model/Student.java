@@ -1,4 +1,4 @@
-package com.example.security_tutorial;
+package com.example.security_tutorial.model;
 
 public class Student {
     private int id;
